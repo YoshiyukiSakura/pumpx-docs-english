@@ -4,7 +4,7 @@
 
 ## Introduction to PumpX
 
-* [How to download?](introduction-to-pumpx/quickstart.md)
+* [How to download?](introduction-to-pumpx/how-to-download.md)
 * [Quick Start](introduction-to-pumpx/quick-start.md)
 * [Fee](introduction-to-pumpx/fee.md)
 * [Referral](introduction-to-pumpx/referral.md)
