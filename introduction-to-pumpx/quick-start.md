@@ -8,9 +8,9 @@ icon: globe-pointer
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. Users can search by copying the CA or token name
-2. The carousel at the top can be clicked for detailed content
-3. The bottom section shows the top trending tokens based on price changes over different time periods
+* Users can search by copying the CA or token name
+* The carousel at the top can be clicked for detailed content
+* The bottom section shows the top trending tokens based on price changes over different time periods
 
 ### 2. Trading
 
