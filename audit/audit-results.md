@@ -1,7 +1,10 @@
 # Audit Results
 
-We have successfully completed a security audit of PumpX, conducted by CertiK, a leading third-party audit company. CertiK is widely recognized for its expertise in analyzing and monitoring blockchain protocols and DeFi projects.
+We have successfully completed a security audit of PumpX, conducted by SlowMist. SlowMist is a professional blockchain security company specializing in smart contract auditing, vulnerability detection, threat intelligence, and incident response. With its technical expertise and global network of partners, SlowMist is widely recognized for securing blockchain ecosystems.
 
-After a thorough and comprehensive audit, we are proud to report that PumpX has successfully passed all 9 security checks, achieving a green status ✅.
+The full audit report is available here: [https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20PumpX\_en-us.pdf](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20PumpX_en-us.pdf)
 
-We are excited to share these results with the community and assure our users of the security and integrity of our platform. For more detailed information, please refer to the full audit report here: [http://xxxxxx](http://xxxxxx).
+You can also view the PDF directly:&#x20;
+
+{% file src="../.gitbook/assets/PumpX-SlowMist Audit Report.pdf" %}
+
