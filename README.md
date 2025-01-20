@@ -25,4 +25,4 @@ The market already has various products like Gmgn, Dexscreener, Pepeboost, and D
 
 The following picture illustrates PumpX’s mission and how it stands apart from many existing DEX products.
 
-<figure><img src=".gitbook/assets/PumpX_dex.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2-engpump.png" alt=""><figcaption></figcaption></figure>
