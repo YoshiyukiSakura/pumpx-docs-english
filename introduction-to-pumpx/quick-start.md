@@ -28,7 +28,7 @@ icon: globe-pointer
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* We offer two types of AI Agents: An Aggressive version and A Conservative version. The aggressive AI will recommend tokens with higher potential returns, while the conservative AI focuses on protecting your principal by recommending tokens with potential for moderate growth
+* We offer two types of AI Agents: An Aggressive version and A Conservative version. The aggressive AI will recommend tokens with higher potential returns, while the conservative AI focuses on protecting your principal by recommending tokens with the potential for moderate growth
 * The PumpX Information feed aggregates popular crypto-related posts from X, showcasing tokens and related information within those posts
 
 
