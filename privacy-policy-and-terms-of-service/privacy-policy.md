@@ -11,8 +11,7 @@ For the purposes of this Privacy Policy, the following definitions apply:
 * **Account**: A unique account created for you to access our services.
 * **Affiliates**: Entities that control, are controlled by, or are under common control with the company. “Control” refers to the ownership of 50% or more of the shares, stock, or other securities that grant the right to elect directors or manage the entity.
 * **Application**: The software application provided by the company, called PumpX, that you have downloaded on any electronic device.
-* **Company**: PumpX LTD (referred to as “the company,” “we,” “us,” or “our”).
-* **Country/Region**: United States, Singapore, Japan, Hong Kong, Taiwan.
+* **Company**: Trust Computing GmbH (referred to as “the company,” “we,” “us,” or “our”).
 * **Device**: Any device that can access the services, such as a computer, mobile phone, or tablet.
 * **Personal Information**: Any information related to an identified or identifiable individual.
 * **Services**: The application provided by the company.
@@ -113,4 +112,4 @@ We recommend that you review this Privacy Policy regularly to stay informed of a
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email**: team@pumpx.ai
+**Email**: kevin@pumpx.ai
