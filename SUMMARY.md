@@ -36,6 +36,8 @@
 
 * [Privacy Policy](privacy-policy-and-terms-of-service/privacy-policy.md)
 * [Terms of Service](privacy-policy-and-terms-of-service/terms-of-service.md)
+* [Disclaimer](privacy-policy-and-terms-of-service/disclaimer.md)
+* [Compliance with FCA](privacy-policy-and-terms-of-service/compliance-with-fca.md)
 
 ## Audit
 
