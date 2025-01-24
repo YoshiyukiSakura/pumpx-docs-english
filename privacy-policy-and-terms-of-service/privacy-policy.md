@@ -112,4 +112,4 @@ We recommend that you review this Privacy Policy regularly to stay informed of a
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email**: kevin@pumpx.ai
+**Email**: admin@pumpx.ai
