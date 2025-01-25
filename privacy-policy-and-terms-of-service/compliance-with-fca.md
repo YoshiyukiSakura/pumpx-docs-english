@@ -47,4 +47,4 @@ While we do not manage user funds or perform custodial functions, we encourage o
 
 By implementing these measures, PumpX ensures compliance with the FCA’s policy on crypto asset promotions. We are committed to providing a safe, transparent, and user-friendly experience for individuals engaging in on-chain trading activities.
 
-For any inquiries, please contact us at kevin@pumpx.ai.
+For any inquiries, please contact us at admin@pumpx.ai.
