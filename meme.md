@@ -16,4 +16,4 @@ The following screenshot provides a detailed explanation of this function:
 * **New Content Notifications:** A refresh button will appear at the top when new content is available, allowing users to access the latest recommended feed.
 * **Navigation Button:** By clicking the navigation button in the top-right corner of the module, users can be redirected to the relevant **X** details page to explore the corresponding content.
 
-<div align="left"><figure><img src=".gitbook/assets/image (2).png" alt="" width="299"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="299"><figcaption></figcaption></figure></div>

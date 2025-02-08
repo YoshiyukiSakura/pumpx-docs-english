@@ -6,7 +6,7 @@ icon: globe-pointer
 
 ### 1. Homepage
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Users can search by copying the CA or token name
 * The carousel at the top can be clicked for detailed content
@@ -26,7 +26,7 @@ icon: globe-pointer
 
 ### 3. Meme Information
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * We offer two types of AI Agents: An Aggressive version and A Conservative version. The aggressive AI will recommend tokens with higher potential returns, while the conservative AI focuses on protecting your principal by recommending tokens with the potential for moderate growth
 * The PumpX Information feed aggregates popular crypto-related posts from X, showcasing tokens and related information within those posts
