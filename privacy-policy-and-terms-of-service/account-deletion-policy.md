@@ -60,8 +60,8 @@ Contact Us: If you have any questions or concerns about this Policy or our data 
 1. **Access Settings:** Click on the bottom right corner to enter “Settings.”
 2. **Select Delete Account:** Choose the “Delete Account” option.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 3. Confirm Deletion: Click “Confirm” to proceed with account deletion.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
