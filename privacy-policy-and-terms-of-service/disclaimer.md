@@ -1,6 +1,6 @@
 # Disclaimer
 
-This PumpX mobile application (the “App”) is a user interface designed to facilitate access to regulated trading services provided by Trust Computing GmbH and its affiliates exclusively for users in the United States. The App serves as a trading aggregator, offering a seamless user experience for executing trades. Third-party services, protocols, and related smart contracts (collectively, the “Third-Party Exchange Services”) operate independently of the App and are governed by their own terms and conditions. PumpX does not provide, own, or control the Third-Party Exchange Services or any transactions conducted on or through those services.
+This **PumpX** mobile application (the "App") is a user interface designed to facilitate access to regulated trading services provided by **Trust Computing GmbH** and its affiliates exclusively for users in the **United States**. Trust Computing GmbH is a **registered Money Services Business (MSB) with the Financial Crimes Enforcement Network (FinCEN) in the United States**, holding **Registration Number: 31000293020658**. The App serves as a trading aggregator, offering a seamless user experience for executing trades. Third-party services, protocols, and related smart contracts (collectively, the "Third-Party Exchange Services") operate independently of the App and are governed by their own terms and conditions. PumpX does not provide, own, or control the Third-Party Exchange Services or any transactions conducted on or through those services.
 
 ### Custody of Digital Assets
 
